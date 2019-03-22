@@ -59,7 +59,7 @@ const styles = StyleSheet.create({
 });
 ```
 
-#### If at any point you want to access the entire styles in the stylesheet.
+#### If at any point you want to access the entire styles.
 
 ```jsx
 const Button = ({size, title}) => (
