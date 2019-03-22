@@ -6,14 +6,20 @@
   "scripts": {
     "test": "mocha"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stevieoj/react-native-extended-stylesheet.git"
+  },
   "keywords": [
     "React",
-    "React-native",
+    "React-native", 
     "Stylesheet",
     "styles"
   ],
   "author": "Ojoma Onoja <stevenelnino101@gmail.com>",
   "license": "MIT",
+  "homepage": "https://github.com/stevieoj/react-native-extended-stylesheet",
+  "bugs": "https://github.com/stevieoj/react-native-extended-stylesheet/issues",
   "devDependencies": {
     "chai": "^4.2.0",
     "mocha": "^6.0.2"
