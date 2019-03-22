@@ -67,10 +67,10 @@ const Button = ({size, title}) => (
    <Text>{title}</Text>
  </TouchableOpacity>
 );
-
+```
 
 #### Other methods
-```StyleSheet.flatten```: Flattens an array of style objects, into a single style object.
+`StyleSheet.flatten`: Flattens an array of style objects, into a single style object.
 
 
 
