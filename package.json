@@ -1,0 +1,21 @@
+{
+  "name": "react-native-extended-stylesheet",
+  "version": "1.0.0",
+  "description": "Extend React Native stylesheet with parameters",
+  "main": "StyleSheet.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "React",
+    "React-native",
+    "Stylesheet",
+    "styles"
+  ],
+  "author": "Ojoma Onoja <stevenelnino101@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^6.0.2"
+  }
+}
