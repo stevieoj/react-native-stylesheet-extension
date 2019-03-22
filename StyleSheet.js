@@ -24,11 +24,11 @@ module.exports = {
     const stylesheet = isPlainObject(styles) ? styles : {};
     return {
       styles: stylesheet,
-      get: (stylesName, params = {}) => {
-        if (!stylesName || !stylesheet.hasOwnProperty(stylesName)) {
+      get: (styleName, params = {}) => {
+        if (!styleName || !stylesheet.hasOwnProperty(styleName)) {
           return {}
         }
-        const currentStyle = stylesheet[stylesName];
+        const currentStyle = stylesheet[styleName];
 
         if (typeof currentStyle === "function") {
           return currentStyle(params);
