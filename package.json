@@ -1,5 +1,5 @@
 {
-  "name": "react-native-extended-stylesheet",
+  "name": "react-native-stylesheet-extension",
   "version": "1.0.0",
   "description": "Extend React Native stylesheet with parameters",
   "main": "StyleSheet.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/stevieoj/react-native-extended-stylesheet.git"
+    "url": "git+https://github.com/stevieoj/react-native-stylesheet-extension.git"
   },
   "keywords": [
     "React",
@@ -18,8 +18,8 @@
   ],
   "author": "Ojoma Onoja <stevenelnino101@gmail.com>",
   "license": "MIT",
-  "homepage": "https://github.com/stevieoj/react-native-extended-stylesheet",
-  "bugs": "https://github.com/stevieoj/react-native-extended-stylesheet/issues",
+  "homepage": "https://github.com/stevieoj/react-native-stylesheet-extension",
+  "bugs": "https://github.com/stevieoj/react-native-stylesheet-extension/issues",
   "devDependencies": {
     "chai": "^4.2.0",
     "mocha": "^6.0.2"
