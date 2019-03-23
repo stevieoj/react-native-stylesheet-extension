@@ -1,4 +1,4 @@
-# react-native-extended-stylesheet
+# react-native-stylesheet-extension
 Extend React Native StyleSheet with parameters
 
 
