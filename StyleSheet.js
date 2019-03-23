@@ -27,11 +27,13 @@ module.exports = {
         if (!styleName || !stylesheet.hasOwnProperty(styleName)) {
           return {}
         }
+        
         const currentStyle = stylesheet[styleName];
 
         if (typeof currentStyle === "function") {
           return currentStyle(params);
         }
+        
         return currentStyle;
       }
     }
