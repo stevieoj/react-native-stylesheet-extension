@@ -7,11 +7,11 @@ Extend React Native StyleSheet with parameters
 Installation can be done through `npm` or `yarn`:
 
 ```shell
-npm i react-native-above-keyboard --save
+npm i react-native-stylesheet-extension --save
 ```
 
 ```shell
-yarn add react-native-above-keyboard
+yarn add react-native-stylesheet-extension
 ```
 
 ## Usage
